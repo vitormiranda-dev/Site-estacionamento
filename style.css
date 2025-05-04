@@ -1,0 +1,64 @@
+
+body { 
+    
+    font-family: Arial, Helvetica, sans-serif;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    background-image: url(esta2.avif); 
+    margin: 0;
+    padding: 0;
+    margin-top: 10px;
+  
+}
+
+div {
+    background-color: rgba(0, 0, 0, 0.8); /* Fundo preto com transparência */
+    width: 700px;
+    margin: 0 auto;
+    padding: 30px; 
+    border-radius: 20px;
+}
+
+h1, h2 {
+    color: rgba(0, 102, 26 ); 
+}
+img {
+ 
+    height: 120px;
+}
+address {
+    background-color: rgba(0, 102, 26 ); 
+    height: 324px;
+    width: 1452px;
+    margin-top: 5px;
+    color: white;
+    justify-content: center;
+    padding: 20px;
+    text-align: center;
+    
+    
+
+}
+
+address img {
+    max-width: 186px;
+    height: auto;
+  }
+address p {
+    margin: 4px 0;
+  }
+
+.tel {
+    font-size: 28px;
+    color: yellow;
+}
+
+.sublinhado-hover:hover {
+    text-decoration: underline;
+  }
+
+
+
