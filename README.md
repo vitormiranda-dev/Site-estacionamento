@@ -23,14 +23,7 @@
     <li>Estilo visual moderno e limpo</li>
   </ul>
 
-  <h3 style="margin-top: 2rem; color: #d3ad7f;">📁 Estrutura do Projeto</h3>
-  <pre style="background-color: #f7f7f7; padding: 1rem; border-radius: 8px; overflow-x: auto;">
-📦 Site-estacionamento
- ┣ 📄 index.html
- ┣ 📄 style.css
- ┣ 📄 script.js
- ┗ 📁 img/
-  </pre>
+ 
 
   <h3 style="margin-top: 2rem; color: #d3ad7f;">🙋‍♂️ Autor</h3>
   <p>Desenvolvido por <strong>Vitor Miranda</strong><br>
